@@ -1,0 +1,16 @@
+.wrapper {
+  width: 300px;
+  margin: 30px 0 0 30px;
+}
+.wrapperHeader {
+  font-size: 24px
+}
+.wrapperTitle {
+  font-size: 20px;
+}
+.wrapperList {
+  margin: 10px 0;
+}
+.contentBtn {
+  float: right;
+}

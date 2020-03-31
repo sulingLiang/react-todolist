@@ -1,0 +1,35 @@
+
+.wrapper {
+  width: 300px;
+  margin: 30px 0 0 30px;
+}
+.wrapperTitle {
+  font-size: 24px;
+}
+.contentItem {
+  list-style: none;
+  position: relative;
+  height: 30px;
+  line-height: 30px;
+}
+.contentCheckbox {
+  position: absolute;
+  top: -3px;
+  right: 20px;
+}
+.finish {
+  line-height: 40px;
+  background: #f0f8ff;
+}
+.unfinish {
+  line-height: 40px;
+  background: #d9bd86;
+}
+.complete {
+  line-height: 40px;
+  background: #5c95c6;
+}
+.contentBtn {
+  float: right;
+  margin-top: 30px;
+}
